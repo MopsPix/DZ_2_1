@@ -1,0 +1,62 @@
+body {
+	background: blue;
+	width: 400px;
+}
+hr {
+	width: 370px;
+	margin-left: 1px;
+}
+h2 {
+	background-color: red;
+	width: 100px;
+	color: white;
+}
+.yellowcolor {
+	background-color: yellow;
+	width: 350px;
+	height: 40px;
+}
+.bluecolor {
+	background-color: blue;
+	width: 350px;
+	height: 60px;
+}
+.wrapper {
+	background-color: white;	
+	padding: 15px 5px 5px 5px; 
+	margin-bottom: 5px;
+
+}
+.elements {
+	background-color: white;
+	padding: 5px;
+	width: 200px;
+}
+.redsquare {
+	width: 60px;
+	height: 50px;
+	background-color: red;
+}
+.yellowsquare {
+	width: 120px;
+	height: 50px;
+	background-color: orange;
+}
+.bluesquare {
+	width: 175px;
+	height: 50px;
+	background-color: blue;
+}
+.joy {
+	margin-top: 15px;
+	height: 2cm;
+	width: 6cm;
+	background-color: orange;
+}
+.joy p {
+	font-size: 35px;
+ 	text-align: center;
+}
+.joy_text {
+	padding-top: 15px;
+}
